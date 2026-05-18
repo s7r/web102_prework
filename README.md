@@ -26,6 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/tqE3oOk.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+you can open  https://i.imgur.com/tqE3oOk.mp4 (in case)
 MP4 created with ...  
 [Kap](https://getkap.co/) for macOS
 
